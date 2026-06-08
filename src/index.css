@@ -16,12 +16,6 @@
   box-sizing: border-box;
 }
 
-* {
-  margin: 100;
-  padding: 100;
-  box-sizing: border-box;
-}
-
 html {
   scroll-behavior: smooth;
 }
