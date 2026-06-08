@@ -1,0 +1,32 @@
+export const trainers = [
+  {
+    id: 1,
+    name: "Jhon Doe",
+    experience: "7+ Years",
+    specialization: "Weight Training & Bodybuilding",
+    certification: "ISSA Certified, ACE",
+    achievements: "Helped 200+ clients achieve goals",
+    image: "https://i.pinimg.com/736x/3b/0e/01/3b0e01f50e0bea19c35c46096b8ed1e2.jpg",
+    bio: "Expert in personalized strength training programs",
+  },
+  {
+    id: 2,
+    name: "Priya Singh",
+    experience: "5+ Years",
+    specialization: "Women's Fitness & Nutrition",
+    certification: "NASM CPT, Nutrition Specialist",
+    achievements: "100+ transformations",
+    image: "https://i.pinimg.com/736x/57/7d/4d/577d4d75e5446c0273f07ef4e017667e.jpg",
+    bio: "Specialized in women's wellness and fat loss",
+  },
+  {
+    id: 3,
+    name: "Arun Patel",
+    experience: "6+ Years",
+    specialization: "Cardio & Functional Training",
+    certification: "ACE, NASM-PES",
+    achievements: "Marathon training expert",
+    image: "https://i.pinimg.com/1200x/71/8b/87/718b87e87e38eb360006e68b4e47ddff.jpg",
+    bio: "Expert in cardio conditioning and endurance",
+  },
+];
